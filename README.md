@@ -27,5 +27,5 @@
 
 ##
 
-![Snake animation](https://github.com/ramonalvesmodesto/ramonalvesmodesto/blob/output/github-contribution-grid-snake.svg?palette=github-dark&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
+![Snake animation](https://github.com/ramonalvesmodesto/ramonalvesmodesto/blob/output/github-contribution-grid-snake.svg?palette=github-dark?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
 
