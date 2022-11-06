@@ -24,3 +24,8 @@
   <div> 
   <a href="https://www.linkedin.com/in/ramon-alves-modesto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
+
+![Snake animation](https://github.com/ramonalvesmodesto/ramonalvesmodesto/blob/output/github-contribution-grid-snake.svg?palette=github-dark&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
+
