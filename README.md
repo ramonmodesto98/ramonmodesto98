@@ -27,7 +27,7 @@
 
 ##
 
-![Snake animation](https://github.com/ramonalvesmodesto/ramonalvesmodesto/blob/output/github-contribution-grid-snake.svg?color_snake=#dc7633&color_dots=#000000,#F1948A,#EC7063,#E74C3C,#B03A2E)
+![Snake animation](https://github.com/ramonalvesmodesto/ramonalvesmodesto/blob/output/github-contribution-grid-snake.svg)
   
   <!-- cobrinha: https://github.com/Platane/snk -->
   <!-- stats: https://github.com/anuraghazra/github-readme-stats- -->
