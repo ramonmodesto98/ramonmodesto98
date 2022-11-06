@@ -27,5 +27,9 @@
 
 ##
 
-![Snake animation](https://github.com/ramonalvesmodesto/ramonalvesmodesto/blob/output/github-contribution-grid-snake.svg?palette=github-dark?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
+![Snake animation](https://github.com/ramonalvesmodesto/ramonalvesmodesto/blob/output/github-contribution-grid-snake.svg?color_snake=#dc7633&color_dots=#000000,#F1948A,#EC7063,#E74C3C,#B03A2E)
+  
+  <!-- cobrinha: https://github.com/Platane/snk -->
+  <!-- stats: https://github.com/anuraghazra/github-readme-stats- -->
+  <!-- devicons: https://github.com/devicons/devicon/tree/master/icons -->
 
